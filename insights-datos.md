@@ -1,6 +1,7 @@
 ---
 description: "Interpretación de resultados y redacción de conclusiones en español"
 mode: subagent
+model: opencode/minimax-m2.5-free
 tools:
   read: true
   bash: true

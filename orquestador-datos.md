@@ -1,6 +1,7 @@
 ---
 description: "Orquestador general de análisis de datos"
 mode: primary
+model: nvidia/moonshotai/kimi-k2.6
 tools:
   task: true
   read: true
